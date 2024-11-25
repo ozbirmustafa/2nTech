@@ -1,0 +1,81 @@
+2024-11-25 01:06:03,386 INFO c.c.u.Driver [main] Initializing the driver for browser: chrome
+2024-11-25 01:06:03,387 INFO c.c.u.Driver [main] Launching Chrome browser.
+2024-11-25 01:06:05,208 INFO c.c.u.Driver [main] Driver initialized successfully.
+2024-11-25 01:06:09,979 INFO c.h.s.NavBarStepDefinitions [main] User is validating main menu items.
+2024-11-25 01:06:10,232 INFO c.h.p.NavBar [main] Clicking on main menu: Neden
+2024-11-25 01:06:11,036 INFO c.h.p.NavBar [main] Main menu 'Neden' validated successfully.
+2024-11-25 01:06:11,036 INFO c.h.p.NavBar [main] Clicking on main menu: Nasıl
+2024-11-25 01:06:12,344 INFO c.h.p.NavBar [main] Main menu 'Nasıl' validated successfully.
+2024-11-25 01:06:12,344 INFO c.h.p.NavBar [main] Clicking on main menu: İş Dünyası
+2024-11-25 01:06:13,060 INFO c.h.p.NavBar [main] Main menu 'İş Dünyası' validated successfully.
+2024-11-25 01:06:13,060 INFO c.h.p.NavBar [main] Clicking on main menu: Yaşam
+2024-11-25 01:06:13,733 INFO c.h.p.NavBar [main] Main menu 'Yaşam' validated successfully.
+2024-11-25 01:06:13,733 INFO c.h.s.NavBarStepDefinitions [main] Main menu items validated successfully and page titles/headers match.
+2024-11-25 01:06:13,736 INFO c.c.u.Driver [main] Quitting the driver.
+2024-11-25 01:06:13,928 INFO c.c.u.Driver [main] Driver quit and cleaned up successfully.
+2024-11-25 01:06:13,945 INFO c.c.u.Driver [main] Initializing the driver for browser: chrome
+2024-11-25 01:06:13,945 INFO c.c.u.Driver [main] Launching Chrome browser.
+2024-11-25 01:06:14,835 INFO c.c.u.Driver [main] Driver initialized successfully.
+2024-11-25 01:06:18,244 INFO c.h.s.NavBarStepDefinitions [main] User is validating submenu items.
+2024-11-25 01:06:18,422 INFO c.h.p.NavBar [main] Hovering over main menu: Neden
+2024-11-25 01:06:18,576 INFO c.h.p.NavBar [main] Clicking on submenu: Astronomi
+2024-11-25 01:06:19,447 INFO c.h.p.NavBar [main] Clicking on submenu: Fizik
+2024-11-25 01:06:20,340 INFO c.h.p.NavBar [main] Clicking on submenu: Kimya
+2024-11-25 01:06:21,177 INFO c.h.p.NavBar [main] Clicking on submenu: Biyoloji
+2024-11-25 01:06:21,981 INFO c.h.p.NavBar [main] Clicking on submenu: Diğer
+2024-11-25 01:06:22,835 INFO c.h.p.NavBar [main] Hovering over main menu: Nasıl
+2024-11-25 01:06:23,005 INFO c.h.p.NavBar [main] Clicking on submenu: Savunma
+2024-11-25 01:06:23,773 INFO c.h.p.NavBar [main] Clicking on submenu: Otomotiv
+2024-11-25 01:06:24,616 INFO c.h.p.NavBar [main] Clicking on submenu: Enerji
+2024-11-25 01:06:26,952 INFO c.h.p.NavBar [main] Clicking on submenu: Yapay Zeka
+2024-11-25 01:06:27,813 INFO c.h.p.NavBar [main] Clicking on submenu: Elektronik
+2024-11-25 01:06:28,665 INFO c.h.p.NavBar [main] Clicking on submenu: Bilgisayar
+2024-11-25 01:06:29,521 INFO c.h.p.NavBar [main] Clicking on submenu: Güvenlik
+2024-11-25 01:06:30,245 INFO c.h.p.NavBar [main] Clicking on submenu: Uzay / Havacılık
+2024-11-25 01:06:31,004 INFO c.h.p.NavBar [main] Hovering over main menu: İş Dünyası
+2024-11-25 01:06:31,170 INFO c.h.p.NavBar [main] Clicking on submenu: Türkiye
+2024-11-25 01:06:31,946 INFO c.h.p.NavBar [main] Clicking on submenu: Dünya
+2024-11-25 01:06:32,727 INFO c.h.p.NavBar [main] Hovering over main menu: Yaşam
+2024-11-25 01:06:32,959 INFO c.h.p.NavBar [main] Clicking on submenu: Sağlık
+2024-11-25 01:06:37,614 INFO c.h.p.NavBar [main] Clicking on submenu: Eğitim
+2024-11-25 01:06:38,695 INFO c.h.p.NavBar [main] Clicking on submenu: Çevre
+2024-11-25 01:06:39,507 INFO c.h.p.NavBar [main] Clicking on submenu: Kültür
+2024-11-25 01:06:40,558 INFO c.h.p.NavBar [main] Clicking on submenu: Oyun
+2024-11-25 01:06:41,319 INFO c.h.p.NavBar [main] Clicking on submenu: Spor
+2024-11-25 01:06:43,205 INFO c.h.s.NavBarStepDefinitions [main] Submenu items validated successfully and page titles/headers match.
+2024-11-25 01:06:43,205 INFO c.c.u.Driver [main] Quitting the driver.
+2024-11-25 01:06:43,388 INFO c.c.u.Driver [main] Driver quit and cleaned up successfully.
+2024-11-25 01:06:43,400 INFO c.c.u.Driver [main] Initializing the driver for browser: chrome
+2024-11-25 01:06:43,400 INFO c.c.u.Driver [main] Launching Chrome browser.
+2024-11-25 01:06:44,294 INFO c.c.u.Driver [main] Driver initialized successfully.
+2024-11-25 01:06:47,943 INFO c.h.s.SearchStepDefinitions [main] User clicks the search button.
+2024-11-25 01:06:48,014 INFO c.h.s.SearchStepDefinitions [main] Search button clicked successfully.
+2024-11-25 01:06:48,016 INFO c.h.s.SearchStepDefinitions [main] User enters 'İstanbul' into the search input.
+2024-11-25 01:06:48,484 INFO c.h.s.SearchStepDefinitions [main] Successfully entered 'İstanbul' into the search input.
+2024-11-25 01:06:48,485 INFO c.h.s.SearchStepDefinitions [main] User submits the search query.
+2024-11-25 01:06:49,885 INFO c.h.s.SearchStepDefinitions [main] Search query submitted successfully.
+2024-11-25 01:06:49,885 INFO c.h.s.SearchStepDefinitions [main] Verifying that the search results header displays 'Search Results for: İstanbul'.
+2024-11-25 01:06:49,911 INFO c.h.s.SearchStepDefinitions [main] Search results header is displayed as expected.
+2024-11-25 01:06:49,912 INFO c.h.s.SearchStepDefinitions [main] User is navigating to the 8th news article.
+2024-11-25 01:06:51,352 INFO c.h.s.SearchStepDefinitions [main] User successfully navigated to the 8th news article.
+2024-11-25 01:06:51,353 INFO c.h.s.SearchStepDefinitions [main] Verifying if the news title matches after navigation.
+2024-11-25 01:06:51,371 INFO c.h.s.SearchStepDefinitions [main] News title matches after navigation.
+2024-11-25 01:06:51,371 INFO c.c.u.Driver [main] Quitting the driver.
+2024-11-25 01:06:51,515 INFO c.c.u.Driver [main] Driver quit and cleaned up successfully.
+2024-11-25 01:06:51,527 INFO c.c.u.Driver [main] Initializing the driver for browser: chrome
+2024-11-25 01:06:51,527 INFO c.c.u.Driver [main] Launching Chrome browser.
+2024-11-25 01:06:52,383 INFO c.c.u.Driver [main] Driver initialized successfully.
+2024-11-25 01:06:54,361 INFO c.h.s.SearchStepDefinitions [main] User clicks the search button.
+2024-11-25 01:06:59,904 INFO c.h.s.SearchStepDefinitions [main] Search button clicked successfully.
+2024-11-25 01:06:59,905 INFO c.h.s.SearchStepDefinitions [main] User enters 'Ankara' into the search input.
+2024-11-25 01:07:00,365 INFO c.h.s.SearchStepDefinitions [main] Successfully entered 'Ankara' into the search input.
+2024-11-25 01:07:00,366 INFO c.h.s.SearchStepDefinitions [main] User submits the search query.
+2024-11-25 01:07:02,245 INFO c.h.s.SearchStepDefinitions [main] Search query submitted successfully.
+2024-11-25 01:07:02,245 INFO c.h.s.SearchStepDefinitions [main] Verifying that the search results header displays 'Search Results for: Ankara'.
+2024-11-25 01:07:02,272 INFO c.h.s.SearchStepDefinitions [main] Search results header is displayed as expected.
+2024-11-25 01:07:02,273 INFO c.h.s.SearchStepDefinitions [main] User is navigating to the 3th news article.
+2024-11-25 01:07:02,794 INFO c.h.s.SearchStepDefinitions [main] User successfully navigated to the 3th news article.
+2024-11-25 01:07:02,795 INFO c.h.s.SearchStepDefinitions [main] Verifying if the news title matches after navigation.
+2024-11-25 01:07:02,811 INFO c.h.s.SearchStepDefinitions [main] News title matches after navigation.
+2024-11-25 01:07:02,811 INFO c.c.u.Driver [main] Quitting the driver.
+2024-11-25 01:07:02,949 INFO c.c.u.Driver [main] Driver quit and cleaned up successfully.

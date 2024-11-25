@@ -1,0 +1,28 @@
+2024-11-25 00:59:15,144 INFO c.c.u.Driver [main] Initializing the driver for browser: chrome
+2024-11-25 00:59:15,147 INFO c.c.u.Driver [main] Launching Chrome browser.
+2024-11-25 00:59:16,992 INFO c.c.u.Driver [main] Driver initialized successfully.
+2024-11-25 00:59:19,596 INFO c.t.p.PersonalInfoTab [main] Generating fake data for user information.
+2024-11-25 00:59:19,715 INFO c.t.p.PersonalInfoTab [main] Generated full name: Jarred Feil
+2024-11-25 00:59:19,793 INFO c.t.p.PersonalInfoTab [main] Generated TC Kimlik: 74547698303
+2024-11-25 00:59:19,847 INFO c.t.p.PersonalInfoTab [main] Generated phone number: 05051873043
+2024-11-25 00:59:19,923 INFO c.t.p.PersonalInfoTab [main] Generated email address: whitney.williamson@gmail.com
+2024-11-25 00:59:20,004 INFO c.t.p.PersonalInfoTab [main] Fake user data generated and entered successfully.
+2024-11-25 00:59:20,005 INFO c.t.p.PersonalInfoTab [main] Uploading CV from path: C:\Users\musta\IdeaProjects\2nhaber\files\MustafaOzbir.pdf
+2024-11-25 00:59:20,032 INFO c.t.p.PersonalInfoTab [main] Selecting education degree: Lisans
+2024-11-25 00:59:20,080 INFO c.t.p.PersonalInfoTab [main] Checking if KVKK checkbox is not selected.
+2024-11-25 00:59:20,097 INFO c.t.p.PersonalInfoTab [main] KVKK checkbox is already selected.
+2024-11-25 00:59:20,178 INFO c.t.s.FormSubmissionStepDefinitions [main] Successfully navigated to the Additional Info tab.
+2024-11-25 00:59:20,183 INFO c.t.p.OtherInfoTab [main] Attempting to select the job title: Test Engineer
+2024-11-25 00:59:20,404 INFO c.t.p.OtherInfoTab [main] Job title 'Test Engineer' selected successfully.
+2024-11-25 00:59:20,405 INFO c.t.s.FormSubmissionStepDefinitions [main] Submitting the form.
+2024-11-25 00:59:20,405 INFO c.t.p.OtherInfoTab [main] Attempting to submit the form.
+2024-11-25 00:59:20,459 INFO c.t.p.OtherInfoTab [main] Form submitted successfully.
+2024-11-25 00:59:20,459 INFO c.t.s.FormSubmissionStepDefinitions [main] Form submitted successfully.
+2024-11-25 00:59:20,460 INFO c.t.s.FormSubmissionStepDefinitions [main] Verifying successful job application submission.
+2024-11-25 00:59:20,460 INFO c.t.p.OtherInfoTab [main] Verifying the visibility of the success message.
+2024-11-25 00:59:21,775 INFO c.t.p.OtherInfoTab [main] Success message is visible.
+2024-11-25 00:59:21,928 INFO c.t.p.OtherInfoTab [main] Verifying the job application success URL.
+2024-11-25 00:59:21,934 INFO c.t.p.OtherInfoTab [main] Current URL matches the expected success URL: https://2ntech.com.tr/success
+2024-11-25 00:59:22,099 INFO c.t.s.FormSubmissionStepDefinitions [main] Job application submission verified successfully.
+2024-11-25 00:59:22,100 INFO c.c.u.Driver [main] Quitting the driver.
+2024-11-25 00:59:22,243 INFO c.c.u.Driver [main] Driver quit and cleaned up successfully.
